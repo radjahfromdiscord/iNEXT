@@ -1,6 +1,7 @@
 # iNEXT
 
-### balls
+### Dev notes:
+iNEXT Contains the current best kill all for Big Paintball, but sometimes the kill all could get you banned. Use alt-accounts.
 
 inext yeah man
 
